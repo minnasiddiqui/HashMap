@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/*.jar",
+        "**/lib/*.jar",
+        "c:\\Users\\minna\\OneDrive\\Documents\\ITSC2214\\hamcrest-core-1.3.jar",
+        "c:\\Users\\minna\\OneDrive\\Documents\\ITSC2214\\itsc2214.jar",
+        "c:\\Users\\minna\\OneDrive\\Documents\\ITSC2214\\junit-4.13.2.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
